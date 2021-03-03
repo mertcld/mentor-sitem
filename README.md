@@ -1,2 +1,2 @@
 # mentor-sitem
-Mentor konulu yaptığım site
+Mentör konulu kendimi denemek için geliştirdiğim site.
